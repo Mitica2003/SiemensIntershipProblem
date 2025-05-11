@@ -1,0 +1,6 @@
+com.siemens.internship
+com.siemens.internship.controller
+com.siemens.internship.exceptions
+com.siemens.internship.model
+com.siemens.internship.repository
+com.siemens.internship.service
